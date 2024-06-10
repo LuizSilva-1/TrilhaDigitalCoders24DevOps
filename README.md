@@ -6,4 +6,5 @@
 ## Salvando as modificações no git 2
 * Comando git push
 * Comando git pull
+* Comando git fatch
 
